@@ -1,0 +1,16 @@
+{
+  "name": "sample-etag",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "md5": "^2.2.1",
+    "memory-cache": "^0.2.0"
+  },
+  "scripts": {},
+  "eslintConfig": {},
+  "browserslist": {
+    "production": [],
+    "development": []
+  }
+}
